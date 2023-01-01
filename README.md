@@ -22,5 +22,5 @@
 </p>
 
 <div align="center">
-  <img height="300" width="600" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+  <img height="300" width="600" src="https://tenor.com/9BHm.gif"/>
 </div>
