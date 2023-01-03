@@ -35,7 +35,7 @@ located_in: Nagpur, Maharashtra
 education:
   [
     "Self-Taught Developer and Designer",
-    "Doing Bachelor's in Computer Science and Engineering",
+    "Pursuing Bachelor's in Computer Science and Engineering",
   ]
 
 
