@@ -34,7 +34,7 @@ located_in: Nagpur, Maharashtra
 
 education:
   [
-    "Self-Taught Developer and Designer",
+    "Self-Taught Developer",
     "Pursuing Bachelor's in Computer Science and Engineering",
   ]
 
@@ -42,18 +42,15 @@ education:
 fields_of_interests:
   [
     "Web Development",
-    "Machine Learning",
-    "ReactJs Developer",
+    "NextJs Developer",
   ]
 
 language:
   [
     "Java"
     "Javascript"
-    "Python"
   ]
-  
-currently_learning: ["NodeJs,MongoDB"]
+
 ```
 <h2> 🚀Some Tools I Have Used and Learned</h2>
 <p align="left">
@@ -65,11 +62,7 @@ currently_learning: ["NodeJs,MongoDB"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bs" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 
 
