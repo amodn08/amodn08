@@ -21,9 +21,9 @@ Education:
   - Self-taught Developer
 
 Philosophy:
-  - Do it well or don't do it at all.
+  - You only overcome anything by action. Anything.
   - Consistency beats intensity.
-  - Minimal, intentional, long-term thinking.
+  - You win only with repetitions.
 
 ```
 
